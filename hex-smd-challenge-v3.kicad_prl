@@ -60,7 +60,8 @@
       37,
       38
     ],
-    "visible_layers": "00290aa_80000001"
+    "visible_layers": "00290aa_80000001",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "hex-smd-challenge-v3.kicad_prl",
