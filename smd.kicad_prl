@@ -60,7 +60,8 @@
       37,
       38
     ],
-    "visible_layers": "0015055_80000000"
+    "visible_layers": "0015055_80000000",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "smd.kicad_prl",

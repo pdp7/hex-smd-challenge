@@ -1,4 +1,4 @@
-(kicad_pcb (version 20201115) (generator pcbnew)
+(kicad_pcb (version 20201220) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -84,7 +84,8 @@
   (net 12 "Net-(D4-Pad2)")
   (net 13 "Net-(D4-Pad1)")
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp 0bc71612-e911-4160-8efa-41b6115bd5c3)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp 0bc71612-e911-4160-8efa-41b6115bd5c3)
     (at 200.4325 107.2475)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -101,7 +102,8 @@
       (net 1 "GND") (tstamp 48d1478f-b70a-46f7-a46c-38e0282c0137))
   )
 
-  (footprint "footprints:R_1206" (layer "F.Cu") (tedit 5902A5E4) (tstamp 0c1275e5-683e-4351-bc4c-eb30dc4b943b)
+  (footprint "footprints:R_1206" (layer "F.Cu")
+    (tedit 5902A5E4) (tstamp 0c1275e5-683e-4351-bc4c-eb30dc4b943b)
     (at 203.0995 100.2625 180)
     (descr "Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 1206")
@@ -131,7 +133,8 @@
     )
   )
 
-  (footprint "hex-smd-challenge:oshpark-v2-ppp" (layer "F.Cu") (tedit 0) (tstamp 251d27e4-f2aa-4c73-b004-0b44a916ff68)
+  (footprint "hex-smd-challenge:oshpark-v2-ppp" (layer "F.Cu")
+    (tedit 0) (tstamp 251d27e4-f2aa-4c73-b004-0b44a916ff68)
     (at 212.94 106.03)
     (attr through_hole)
     (fp_text reference "Ref**" (at 0 0) (layer "F.SilkS") hide
@@ -3277,7 +3280,8 @@
       (xy -18.196591 -16.151791)) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp f80b4840-4689-4a30-b285-fcd8420bcf40))
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp 282f779f-bef1-4fe1-b9fe-165c4aa0cc72)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp 282f779f-bef1-4fe1-b9fe-165c4aa0cc72)
     (at 212.6245 100.2625)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -3294,7 +3298,8 @@
       (net 5 "Net-(CON1-Pad4)") (tstamp 6e1fb082-58ed-4e87-873f-133f515e912c))
   )
 
-  (footprint "myFootPrints:MadeInOregonRev25" (layer "F.Cu") (tedit 0) (tstamp 288e75b1-1a0a-4fef-9403-7e945f5edd0b)
+  (footprint "myFootPrints:MadeInOregonRev25" (layer "F.Cu")
+    (tedit 0) (tstamp 288e75b1-1a0a-4fef-9403-7e945f5edd0b)
     (at 189.895 93.75 -90)
     (attr through_hole)
     (fp_text reference "VAL" (at 0 0 90) (layer "F.SilkS") hide
@@ -5734,7 +5739,8 @@
       (xy 0.77978 0.74168)) (layer "B.SilkS") (width 0.00254) (fill solid) (tstamp fa4f9b4e-59b4-4071-bb55-0b1dbdc99a11))
   )
 
-  (footprint "Pin_Headers:Pin_Header_Straight_1x01" (layer "F.Cu") (tedit 5FCAB24D) (tstamp 304560c2-1558-46c5-96f7-41421aad0e9e)
+  (footprint "Pin_Headers:Pin_Header_Straight_1x01" (layer "F.Cu")
+    (tedit 5FCAB24D) (tstamp 304560c2-1558-46c5-96f7-41421aad0e9e)
     (at 208.44 70.5)
     (descr "Through hole pin header")
     (tags "pin header")
@@ -5751,7 +5757,8 @@
       (net 1 "GND") (tstamp 576e4e2b-beac-403f-94a0-0f4a0ec086aa))
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp 3aa73e26-ebc0-4e00-bca3-0a39a47c2cb5)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp 3aa73e26-ebc0-4e00-bca3-0a39a47c2cb5)
     (at 204.687 111.6925)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -5768,7 +5775,8 @@
       (net 1 "GND") (tstamp 2f7342d0-83ff-42f6-b1dd-920fb856f1a2))
   )
 
-  (footprint "footprints:SOIJ-8_5.3x5.3mm_Pitch1.27mm" (layer "F.Cu") (tedit 5902B706) (tstamp 3b8e145a-fde1-4239-9328-3c8fcc8d7f5c)
+  (footprint "footprints:SOIJ-8_5.3x5.3mm_Pitch1.27mm" (layer "F.Cu")
+    (tedit 5902B706) (tstamp 3b8e145a-fde1-4239-9328-3c8fcc8d7f5c)
     (at 217.4505 100.8975 90)
     (descr "8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "SOIC 1.27")
@@ -5816,7 +5824,8 @@
     )
   )
 
-  (footprint "footprints:R_0402" (layer "F.Cu") (tedit 58DFDC4A) (tstamp 3dc5b228-620c-446c-872e-3d01b9475e25)
+  (footprint "footprints:R_0402" (layer "F.Cu")
+    (tedit 58DFDC4A) (tstamp 3dc5b228-620c-446c-872e-3d01b9475e25)
     (at 205.0045 109.7875 180)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
@@ -5846,7 +5855,8 @@
     )
   )
 
-  (footprint "hex-smd-challenge:oshpark-v2-oshpark" (layer "F.Cu") (tedit 0) (tstamp 4e5acea3-c43c-499f-a7a1-47ac469225b8)
+  (footprint "hex-smd-challenge:oshpark-v2-oshpark" (layer "F.Cu")
+    (tedit 0) (tstamp 4e5acea3-c43c-499f-a7a1-47ac469225b8)
     (at 212.49 107.12)
     (attr through_hole)
     (fp_text reference "Ref**" (at 0 0) (layer "F.SilkS") hide
@@ -7379,7 +7389,8 @@
       (xy 11.0871 -26.2382)) (layer "F.SilkS") (width 0.01) (fill solid) (tstamp fdb51ffd-f7f5-44bc-a23c-eec875fdf071))
   )
 
-  (footprint "LED_0402" (layer "F.Cu") (tedit 5A4BDEED) (tstamp 5a0dcb54-48a0-4b19-8e7a-f9378948f489)
+  (footprint "LED_0402" (layer "F.Cu")
+    (tedit 5A4BDEED) (tstamp 5a0dcb54-48a0-4b19-8e7a-f9378948f489)
     (at 208.8145 109.7875)
     (descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0402")
@@ -7412,7 +7423,8 @@
     )
   )
 
-  (footprint "footprints:R_0805" (layer "F.Cu") (tedit 58DFDC5C) (tstamp 674c6a45-a4c2-4c49-b59f-8d7865077e81)
+  (footprint "footprints:R_0805" (layer "F.Cu")
+    (tedit 58DFDC5C) (tstamp 674c6a45-a4c2-4c49-b59f-8d7865077e81)
     (at 203.7345 104.0725 180)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
@@ -7442,7 +7454,8 @@
     )
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp 741d87ab-dd2a-4b01-8ccd-82298f041f38)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp 741d87ab-dd2a-4b01-8ccd-82298f041f38)
     (at 211.1005 111.6925)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7459,7 +7472,8 @@
       (net 12 "Net-(D4-Pad2)") (tstamp 6a3bb9b2-3885-454c-8f77-c502d24a29bb))
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp 74940f82-d480-4ffd-b822-41d3071b80b3)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp 74940f82-d480-4ffd-b822-41d3071b80b3)
     (at 212.1165 104.0725)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7476,7 +7490,8 @@
       (net 3 "Net-(CON1-Pad1)") (tstamp a037743b-8931-4e10-a7b7-d0c44c5e351e))
   )
 
-  (footprint "footprints:LED-0805" (layer "F.Cu") (tedit 5902C116) (tstamp 7e3a62f3-efb2-45df-983a-6245c91b1db7)
+  (footprint "footprints:LED-0805" (layer "F.Cu")
+    (tedit 5902C116) (tstamp 7e3a62f3-efb2-45df-983a-6245c91b1db7)
     (at 208.8145 104.0725)
     (descr "LED 0805 smd package")
     (tags "LED 0805 SMD")
@@ -7519,7 +7534,8 @@
     )
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp 86e0f023-f9b7-4b49-befb-783540252b0b)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp 86e0f023-f9b7-4b49-befb-783540252b0b)
     (at 198.7815 100.2625)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7536,7 +7552,8 @@
       (net 1 "GND") (tstamp d01221cd-4f65-41a7-bd76-3466088a226d))
   )
 
-  (footprint "footprints:LED-0603" (layer "F.Cu") (tedit 5902C124) (tstamp 9ef0e384-d78a-433c-82d4-e47b4f05191e)
+  (footprint "footprints:LED-0603" (layer "F.Cu")
+    (tedit 5902C124) (tstamp 9ef0e384-d78a-433c-82d4-e47b4f05191e)
     (at 208.8145 107.2475)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
@@ -7573,7 +7590,8 @@
     )
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp bf2c11ec-bc29-4773-97af-ab0610caa35d)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp bf2c11ec-bc29-4773-97af-ab0610caa35d)
     (at 211.7355 107.2475)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7590,7 +7608,8 @@
       (net 4 "Net-(CON1-Pad3)") (tstamp 0f8e487f-e6ca-4276-a1f8-e4cc0cffedc8))
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp c3fb62fa-5a4b-420c-bf35-b1b45860e102)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp c3fb62fa-5a4b-420c-bf35-b1b45860e102)
     (at 199.226 104.0725)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7607,7 +7626,8 @@
       (net 1 "GND") (tstamp 0d1235ca-512e-46e4-8537-326f86ab59e4))
   )
 
-  (footprint "footprints:LED-1206" (layer "F.Cu") (tedit 5902C0FC) (tstamp c432e79e-05e8-4529-89a2-0d3835a256a5)
+  (footprint "footprints:LED-1206" (layer "F.Cu")
+    (tedit 5902C0FC) (tstamp c432e79e-05e8-4529-89a2-0d3835a256a5)
     (at 208.8145 100.2625)
     (descr "LED 1206 smd package")
     (tags "LED1206 SMD")
@@ -7650,7 +7670,8 @@
     )
   )
 
-  (footprint "footprints:R_0603" (layer "F.Cu") (tedit 5902A5F6) (tstamp c6ae7e46-90c4-49cb-9c05-cb31b0838618)
+  (footprint "footprints:R_0603" (layer "F.Cu")
+    (tedit 5902A5F6) (tstamp c6ae7e46-90c4-49cb-9c05-cb31b0838618)
     (at 204.3695 107.2475 180)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
@@ -7680,7 +7701,8 @@
     )
   )
 
-  (footprint "footprints:R_0201" (layer "F.Cu") (tedit 5A2C7C82) (tstamp cd256cea-7e1d-4adc-b09e-b2eac9ef1812)
+  (footprint "footprints:R_0201" (layer "F.Cu")
+    (tedit 5A2C7C82) (tstamp cd256cea-7e1d-4adc-b09e-b2eac9ef1812)
     (at 206.2745 111.6925 180)
     (descr "Resistor SMD 0201, reflow soldering, Vishay (see crcw0201e3.pdf)")
     (tags "resistor 0201")
@@ -7710,7 +7732,8 @@
     )
   )
 
-  (footprint "LED_0201" (layer "F.Cu") (tedit 5A4BE065) (tstamp d2710be0-d1d0-4049-b332-7e985c6573ee)
+  (footprint "LED_0201" (layer "F.Cu")
+    (tedit 5A4BE065) (tstamp d2710be0-d1d0-4049-b332-7e985c6573ee)
     (at 208.8145 111.6925)
     (descr "Resistor SMD 0201, reflow soldering, Vishay (see crcw0201e3.pdf)")
     (tags "resistor 0201")
@@ -7740,7 +7763,8 @@
     )
   )
 
-  (footprint "footprints:C_1206_HandSoldering" (layer "F.Cu") (tedit 5902BDF4) (tstamp e00578f5-7244-4ac9-9396-0f91266dbfe5)
+  (footprint "footprints:C_1206_HandSoldering" (layer "F.Cu")
+    (tedit 5902BDF4) (tstamp e00578f5-7244-4ac9-9396-0f91266dbfe5)
     (at 224.67 100.353 90)
     (descr "Capacitor SMD 1206, hand soldering")
     (tags "capacitor 1206")
@@ -7770,7 +7794,8 @@
     )
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp e3ad52f5-a62f-4e34-9a81-1a6c3717be91)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp e3ad52f5-a62f-4e34-9a81-1a6c3717be91)
     (at 202.274 109.7875)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7787,7 +7812,8 @@
       (net 1 "GND") (tstamp ed2a0545-775d-4a34-9c12-6be124002d8d))
   )
 
-  (footprint "footprints:testPad" (layer "F.Cu") (tedit 5902BD57) (tstamp e890d8fb-c5fc-4916-8ca0-581fab770008)
+  (footprint "footprints:testPad" (layer "F.Cu")
+    (tedit 5902BD57) (tstamp e890d8fb-c5fc-4916-8ca0-581fab770008)
     (at 211.3545 109.7875)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7804,7 +7830,8 @@
       (net 11 "Net-(D3-Pad2)") (tstamp 2e757a99-4bfb-4ba3-a28b-3411101bea3d))
   )
 
-  (footprint "footprints:AVR-ISP-6" (layer "B.Cu") (tedit 5860A6AE) (tstamp d12e54ec-2252-4e57-b4c0-fd8c30b069c9)
+  (footprint "footprints:AVR-ISP-6" (layer "B.Cu")
+    (tedit 5860A6AE) (tstamp d12e54ec-2252-4e57-b4c0-fd8c30b069c9)
     (at 222.77 86.175)
     (descr "6-lead dip package, row spacing 7.62 mm (300 mils)")
     (tags "dil dip 2.54 300")
@@ -7831,7 +7858,8 @@
       (net 1 "GND") (tstamp 15888907-a8d0-48ef-91d8-9f392fc7901d))
   )
 
-  (footprint "footprints:BATT_CR2032_SMD" (layer "B.Cu") (tedit 5FCAB1E1) (tstamp d9b13d39-913b-4441-9bd8-2fd25356c77d)
+  (footprint "footprints:BATT_CR2032_SMD" (layer "B.Cu")
+    (tedit 5FCAB1E1) (tstamp d9b13d39-913b-4441-9bd8-2fd25356c77d)
     (at 208.245 100.515 180)
     (tags "battery")
     (attr through_hole)
@@ -7861,7 +7889,8 @@
       (net 1 "GND") (tstamp 790b94b2-bacd-4978-a4b8-2d07a0ff770f))
   )
 
-  (footprint "Connect:1pin" (layer "B.Cu") (tedit 5FCAB223) (tstamp def15da5-39db-4b66-bd06-b0f3c18694d7)
+  (footprint "Connect:1pin" (layer "B.Cu")
+    (tedit 5FCAB223) (tstamp def15da5-39db-4b66-bd06-b0f3c18694d7)
     (at 208.545 76.3)
     (descr "module 1 pin (ou trou mecanique de percage)")
     (tags "DEV")
@@ -7894,6 +7923,21 @@
   )
   (gr_text "Designed by\nMakersBox.us" (at 228.12 88.65 90) (layer "B.SilkS") (tstamp cb029d5f-2f1b-45b2-8fcb-83acf8465877)
     (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
+  )
+  (gr_text "0201" (at 204.3557 111.7981) (layer "F.SilkS") (tstamp 2d335d1c-3159-49cd-a90e-b05d61053da6)
+    (effects (font (size 0.762 0.762) (thickness 0.15)))
+  )
+  (gr_text "0805" (at 198.7042 104.1146) (layer "F.SilkS") (tstamp 55c0485d-95ce-4f84-a729-58c16eb96843)
+    (effects (font (size 1.2 1.2) (thickness 0.3)))
+  )
+  (gr_text "0603" (at 199.9742 107.2896) (layer "F.SilkS") (tstamp 584e5055-640c-43a0-81da-e35939f22821)
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (gr_text "1206" (at 198.0692 100.3046) (layer "F.SilkS") (tstamp 699acd0b-eb91-44cf-a5fa-9e2b3b87fdfa)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "0402" (at 201.8792 109.8296) (layer "F.SilkS") (tstamp 6c331b6d-1778-4352-b66b-89ce036a0b3b)
+    (effects (font (size 0.889 0.889) (thickness 0.2)))
   )
 
   (segment (start 204.687 111.6925) (end 205.8745 111.6925) (width 0.3048) (layer "F.Cu") (net 1) (tstamp 2e873a07-abf3-4960-8907-f35095b0c935))
